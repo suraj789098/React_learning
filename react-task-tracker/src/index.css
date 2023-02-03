@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  background-color: lightblue;
+  font-size: 10px;
+  text-align: center;
+
+}
+
+.card {
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  background-color: aquamarine;
+  padding: 20px;
+  margin: 20px;
+  text-align: center; 
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: 45%;
+  
+}
+
+.card1 {
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  background-color: gray;
+  padding: 20px;
+  margin: 20px;
+  text-align: center; 
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: 45%;
+  
+}
+.card2 {
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  background-color: gray;
+  padding: 20px;
+  margin: 20px;
+  text-align: center; 
+  margin-left: 60%;
+  margin-bottom: 70%;
+  
+}
+
+.count {
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  background-color: gray;
+  padding: 10px;
+  margin: 20px;
+  text-align: center; 
+  margin-left: 10%;
+  margin-bottom: 400%;
+}
+
+.btn1 {
+  color: blue;
+  background-color: aqua;
+
+}
+.btn2 {
+  color: blue;
+  background-color: aqua;
+}
+
+.card21 {
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  background-color: lightblue;
+  padding: 20px;
+  margin: 20px;
+  text-align: center; 
+}
+
+.bt1 {
+  color: blue;
+}
+.btn2 {
+  color: red;
+}
+.btn3 {
+  color: azure;
+}
